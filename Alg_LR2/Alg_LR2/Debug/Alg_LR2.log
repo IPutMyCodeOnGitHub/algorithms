@@ -1,0 +1,138 @@
+﻿  Main.cpp
+c:\users\user\source\repos\alg_lr2\alg_lr2\header2.h(15): error C3861: Iterator: идентификатор не найден
+  c:\users\user\source\repos\alg_lr2\alg_lr2\header2.h(19): note: выполняется компиляция ссылки на экземпляр шаблон класс "NewTree<Data,Key>"
+c:\users\user\source\repos\alg_lr2\alg_lr2\header2.h(26): error C3861: cur: идентификатор не найден
+c:\users\user\source\repos\alg_lr2\alg_lr2\header2.h(27): error C3861: cur: идентификатор не найден
+c:\users\user\source\repos\alg_lr2\alg_lr2\main.cpp(227): error C2247: нет доступа к "Tree<Data,Key>::Iterator::first", поскольку "NewTree<int,int>::newIterator" использует "private" для наследования из "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(56): note:  см. объявление "Tree<Data,Key>::Iterator::first"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\header2.h(12): note:  см. объявление "NewTree<int,int>::newIterator"
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(49): note:  см. объявление "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+c:\users\user\source\repos\alg_lr2\alg_lr2\main.cpp(231): error C2247: нет доступа к "Tree<Data,Key>::Iterator::last", поскольку "NewTree<int,int>::newIterator" использует "private" для наследования из "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(57): note:  см. объявление "Tree<Data,Key>::Iterator::last"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\header2.h(12): note:  см. объявление "NewTree<int,int>::newIterator"
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(49): note:  см. объявление "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+c:\users\user\source\repos\alg_lr2\alg_lr2\main.cpp(235): error C2247: нет доступа к "Tree<Data,Key>::Iterator::prev", поскольку "NewTree<int,int>::newIterator" использует "private" для наследования из "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(59): note:  см. объявление "Tree<Data,Key>::Iterator::prev"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\header2.h(12): note:  см. объявление "NewTree<int,int>::newIterator"
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(49): note:  см. объявление "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+c:\users\user\source\repos\alg_lr2\alg_lr2\main.cpp(239): error C2247: нет доступа к "Tree<Data,Key>::Iterator::next", поскольку "NewTree<int,int>::newIterator" использует "private" для наследования из "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(58): note:  см. объявление "Tree<Data,Key>::Iterator::next"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\header2.h(12): note:  см. объявление "NewTree<int,int>::newIterator"
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(49): note:  см. объявление "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+c:\users\user\source\repos\alg_lr2\alg_lr2\main.cpp(243): error C2247: нет доступа к "Tree<Data,Key>::Iterator::isOff", поскольку "NewTree<int,int>::newIterator" использует "private" для наследования из "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(60): note:  см. объявление "Tree<Data,Key>::Iterator::isOff"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\header2.h(12): note:  см. объявление "NewTree<int,int>::newIterator"
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(49): note:  см. объявление "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+c:\users\user\source\repos\alg_lr2\alg_lr2\main.cpp(248): error C2247: нет доступа к "Tree<Data,Key>::Iterator::operator *", поскольку "NewTree<int,int>::newIterator" использует "private" для наследования из "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(61): note:  см. объявление "Tree<Data,Key>::Iterator::operator *"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\header2.h(12): note:  см. объявление "NewTree<int,int>::newIterator"
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(49): note:  см. объявление "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+c:\users\user\source\repos\alg_lr2\alg_lr2\main.cpp(257): error C2247: нет доступа к "Tree<Data,Key>::Iterator::operator *", поскольку "NewTree<int,int>::newIterator" использует "private" для наследования из "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(61): note:  см. объявление "Tree<Data,Key>::Iterator::operator *"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+  c:\users\user\source\repos\alg_lr2\alg_lr2\header2.h(12): note:  см. объявление "NewTree<int,int>::newIterator"
+  c:\users\user\source\repos\alg_lr2\alg_lr2\bst.h(49): note:  см. объявление "Tree<Data,Key>::Iterator"
+          with
+          [
+              Data=int,
+              Key=int
+          ]

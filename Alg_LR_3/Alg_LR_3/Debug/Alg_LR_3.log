@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\source\repos\alg_lr_3\alg_lr_3\avl.h(95): error C3861: size: идентификатор не найден
+c:\users\user\source\repos\alg_lr_3\alg_lr_3\avl.h(96): error C3861: root: идентификатор не найден
+c:\users\user\source\repos\alg_lr_3\alg_lr_3\avl.h(97): error C3861: size: идентификатор не найден
